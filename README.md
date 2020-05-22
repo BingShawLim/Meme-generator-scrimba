@@ -1,4 +1,4 @@
-# Personal Portfolio
+# Meme-generator-scrimba
 > Here goes your awesome project description!
 
 ## Table of contents
